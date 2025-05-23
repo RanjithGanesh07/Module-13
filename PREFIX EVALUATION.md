@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1e0314f4-7945-4e39-ae06-ab4187e753f8)# Exp.No:34  
+# Exp.No:34  
 ## PREFIX EVALUATION
 
 ---
