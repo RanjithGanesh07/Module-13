@@ -63,3 +63,4 @@ s.peek()
 ![image](https://github.com/user-attachments/assets/8aee8dec-95e3-488d-9455-33b130c79fd8)
 
 ### RESULT
+Thus the program to implement a stack using a list and its built-in methods has been implemented and executed successfully.
